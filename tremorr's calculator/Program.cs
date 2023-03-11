@@ -8,7 +8,7 @@ class Calculator
     {
         int a;
         int b;
-        bool isSelected = false;
+        bool isSelected = false; // to check if a user chooses a wrong option
        
         while (!isSelected) {
             Console.WriteLine("Select a function to perform\n");
