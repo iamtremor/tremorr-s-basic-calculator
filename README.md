@@ -1,2 +1,2 @@
-# tremorr-s-basic-calculatot
+# tremorr-s-basic-calculator
 basic calculator
